@@ -1,5 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
+ 
 # Hello World!, I'm kossi, a web & mobile Developer 👋🏼:
  <br>👨🏼‍🎓 My journey in web development has equipped me with a deep understanding of front-end technologies, with a particular expertise in React.js/Next.js<br>👨🏼‍💻 working as a web developer since 2021 <br>I have experience of building robust and scalable web applications <i>kossi tech</i>
  
